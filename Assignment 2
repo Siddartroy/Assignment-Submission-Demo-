@@ -1,0 +1,51 @@
+<TABLE>
+
+<COLGROUP span="3"></COLGROUP>
+
+<TR><TD> ...
+
+...rows...
+
+</TABLE>
+
+<TABLE>
+
+<COLGROUP>
+
+<COL>
+
+<COL span="2">
+
+</COLGROUP>
+
+<TR><TD> ...
+
+...rows...
+
+</TABLE>
+
+<TABLE>
+
+<COLGROUP>
+
+<COL>
+
+</COLGROUP>
+
+<COLGROUP span="2">
+
+<TR><TD> ...
+
+...rows...
+
+</TABLE>
+
+<TABLE>
+
+<TR>
+
+  <TD><TD><TD>
+
+</TR>
+
+</TABLE>
